@@ -1,4 +1,4 @@
-# oAOSPA
+# oAOSP
 
 + **Supported devices:**
     + bullhead
